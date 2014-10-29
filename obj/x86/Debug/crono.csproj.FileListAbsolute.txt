@@ -1,0 +1,5 @@
+C:\Users\soiber\Desktop\Gestión del crono\crono\obj\x86\Debug\crono.csprojResolveAssemblyReference.cache
+C:\Users\soiber\Desktop\Gestión del crono\crono\bin\Debug\crono.exe
+C:\Users\soiber\Desktop\Gestión del crono\crono\bin\Debug\crono.pdb
+C:\Users\soiber\Desktop\Gestión del crono\crono\obj\x86\Debug\crono.exe
+C:\Users\soiber\Desktop\Gestión del crono\crono\obj\x86\Debug\crono.pdb
